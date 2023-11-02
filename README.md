@@ -1,2 +1,5 @@
-# ASURT-EVER-Major-Task
-The major task of the ASURT EVER learning phase (Team 3)
+# Team members
+1. Mahmoud Magdy
+2. Kareem Amr
+3. Ahmed Ashraf
+
